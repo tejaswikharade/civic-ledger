@@ -1,5 +1,7 @@
 # CivicLedger
 
+> **[Open the live demo →](https://tejaswikharade.github.io/civic-ledger/)**
+
 A small, transparent governance primitive for neighbourhood and civic initiatives. Anyone can publish a proposal, each address can vote once, and proposals can be finalized after a fixed voting window.
 
 ## What is included
